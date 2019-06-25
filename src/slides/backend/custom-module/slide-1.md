@@ -8,7 +8,7 @@ Open your terminal and navigate to your project folder.
 
 If you type `drupal` in the command line, you should see a list of all drupal console commands.
 
-<img src="/img/drupal-console.png" />
+<img src="./img/drupal-console.png" />
 
 Which one do you think you should use to generate a module? Hint: there are descriptions next to the commands. You will use `drupal` followed by the correct command to begin the process.
 

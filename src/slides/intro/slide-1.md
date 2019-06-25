@@ -4,7 +4,7 @@ Drupal is a Content Management System. It contains a core set of tools that you 
 
 Let’s take a look at this diagram:
 
-<img src="/img/drupal-layers.jpg" />
+<img src="./img/drupal-layers.jpg" />
 
 This gives you an idea of the various layers of Drupal.  
 

@@ -12,5 +12,5 @@ In `/sites/default`, copy the `default.services.yml` file and rename it to `serv
 
 Inspect the custom block to find out what to name your template file!
 
-<img src="/img/twig.png" style="width: 60%" />
+<img src="./img/twig.png" style="width: 60%" />
 ---

@@ -8,6 +8,6 @@ Try adding some words or extra html inside the block to see if the override work
 
 Now, add a custom class (such as `welcome-block`) to the array of classes at the top of the html. We will use this class in our CSS to target the block.
 
-<img src="/img/welcome-block.png" style="width: 60%" />
+<img src="./img/welcome-block.png" style="width: 60%" />
 
 ---
