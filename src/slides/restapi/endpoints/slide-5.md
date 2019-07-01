@@ -13,6 +13,7 @@ At the top of your file:
 
 ```PHP
 use Drupal\views\Views;
+use Drupal\node\Entity\Node;
 ```
 
 In your get() function:
